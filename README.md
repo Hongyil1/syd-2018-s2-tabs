@@ -6,9 +6,20 @@
 
 This git repo contains all the code you need to prototype apps for the watch.
 
+In this project, our team build a smartwatch application for Home Care based on a framework providing by ThoughtWorks.
+
 # Start here
 
 The [wiki](https://github.com/twlevelup/watch_edition/wiki) contains lots of useful documentation about what you need installed, continuous integration, your first commit and much more...
+
+# Key Skills
+- HTML/CSS
+- JavaScript
+- Agile development
+- Pair Programming
+- Test-Driven Development
+- Git & GitHub
+
 
 ## Authors
 * **ThoughtWorks Team**
