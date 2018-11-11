@@ -6,7 +6,7 @@
 
 This git repo contains all the code you need to prototype apps for the watch.
 
-In this project, our team build a smartwatch application for Home Care based on a framework providing by ThoughtWorks.
+In this project, our team build a smartwatch application for Home Care based on a framework provided by ThoughtWorks.
 
 # Start here
 
